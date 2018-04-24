@@ -34,6 +34,7 @@ hedgies.uniq!
 # also, how would this be different if we omitted the "!"?
 hedgies.concat(new_hedgies)
 
+# BONUS since we didn't cover today 🦄
 hedgies.each do |hedgie|
   puts hedgie
 end

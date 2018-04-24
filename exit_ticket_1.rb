@@ -7,4 +7,6 @@
 # Remove any duplicates that may exist in your array
 # Create a second array with 3 elements
 # "Sqash" the two arrays together
+
+# BONUS since we didn't cover today 🦄
 # If your array contains strings, write a sentence using each string. If it contains integers, create a multiplication table for your array.
