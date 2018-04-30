@@ -44,7 +44,7 @@ hedgies << "Rocky"
 hedgies.count
 # hedgies.length
 hedgies.uniq!
-# the uniq method removes all instances of nil in the array
+# the uniq method removes all instances of duplicates in the array
 # using the method with the exclamation point will return nil, the method without the exclamation point will return the original array
 hedgies.concat(new_hedgies)
 # this method will add the elements from new_hedgies to hedgies
